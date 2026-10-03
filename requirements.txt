@@ -1,0 +1,7 @@
+# App runtime dependencies only (no LensKit). Pinned to the versions the app was tested with.
+flet==1.0.3
+flet-web==1.0.3
+pandas==3.0.6
+numpy==2.5.3
+pyarrow==25.0.1
+firebase-admin==7.7.0

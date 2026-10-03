@@ -1,0 +1,194 @@
+{
+  "participants": {
+    "accounts": 26,
+    "active": 24,
+    "by_arm": {
+      "pop_entropy": 16,
+      "adaptive": 8
+    },
+    "answers": 946,
+    "swipes": 713,
+    "median_swipes_per_user": 16.0,
+    "rec_lists_shown": 64,
+    "excluded_handles": [
+      "silent-wolf-40"
+    ]
+  },
+  "q1_recommend": {
+    "recommendations": {
+      "users": 15,
+      "answered": 148,
+      "hit_rate": 0.777,
+      "hit_rate_ci95": [
+        0.599,
+        0.907
+      ],
+      "miss_rate": 0.149,
+      "neutral_rate": 0.074,
+      "seen_share": 0.73,
+      "mean_stars_when_seen": 4.38
+    },
+    "deck_cards": {
+      "users": 24,
+      "answered": 713,
+      "hit_rate": 0.574,
+      "hit_rate_ci95": [
+        0.414,
+        0.674
+      ],
+      "miss_rate": 0.323,
+      "neutral_rate": 0.104,
+      "seen_share": 0.644,
+      "mean_stars_when_seen": 4.09
+    },
+    "paired_by_tester": {
+      "testers": 15,
+      "mean_difference": 0.302,
+      "difference_ci95": [
+        0.163,
+        0.432
+      ],
+      "testers_with_higher_rec_hit_rate": 13,
+      "testers_tied": 0
+    },
+    "answered_per_list_median": 8.0,
+    "lists_with_answers": 22
+  },
+  "q2_time": {
+    "per_answer_by_path": {
+      "Haven't seen → list / pass": {
+        "answers": 254,
+        "median_s": 4.03,
+        "median_ci95": [
+          3.57,
+          4.99
+        ],
+        "iqr_s": [
+          3.1,
+          6.15
+        ]
+      },
+      "Seen it → stars": {
+        "answers": 459,
+        "median_s": 3.27,
+        "median_ci95": [
+          2.93,
+          4.58
+        ],
+        "iqr_s": [
+          2.63,
+          4.77
+        ]
+      }
+    },
+    "per_swipe_median_s": 3.5,
+    "per_swipe_median_ci95": [
+      3.06,
+      4.41
+    ],
+    "share_over_60s": 0.013,
+    "seed_picking_median_s": 76.0,
+    "signup_to_first_recs_median_s": 132.7,
+    "users_reaching_recs": 23,
+    "star_distribution_on_deck": {
+      "1.0": 12,
+      "2.0": 24,
+      "3.0": 74,
+      "4.0": 150,
+      "5.0": 199
+    }
+  },
+  "q3_accuracy_vs_time": {
+    "sim_precision_at_10": {
+      "0": 0.462,
+      "5": 0.456,
+      "10": 0.455,
+      "15": 0.461,
+      "20": 0.464,
+      "25": 0.47,
+      "30": 0.471,
+      "35": 0.476,
+      "40": 0.483,
+      "45": 0.485,
+      "50": 0.485
+    },
+    "sim_lenskit_popularity": 0.332,
+    "sim_chance": 0.19,
+    "seeds_share_of_50_swipe_accuracy": 0.953,
+    "seed_time_share_of_50_swipe_time": 0.303,
+    "elapsed_s_seeds_only": 76.0,
+    "elapsed_s_after_50": 251.0,
+    "real_checkins": {
+      "checkin_10": {
+        "users": 6,
+        "answered": 51,
+        "hit_rate": 0.784,
+        "hit_rate_ci95": [
+          0.531,
+          0.958
+        ]
+      },
+      "checkin_25": {
+        "users": 6,
+        "answered": 41,
+        "hit_rate": 0.659,
+        "hit_rate_ci95": [
+          0.306,
+          0.927
+        ]
+      }
+    },
+    "users_answering_both_checkins": 2
+  },
+  "extras": {
+    "rec_hit_rate_by_arm": {
+      "adaptive": {
+        "users": 5,
+        "answered": 57,
+        "hit_rate": 0.667,
+        "hit_rate_ci95": [
+          0.347,
+          0.958
+        ],
+        "miss_rate": 0.263,
+        "neutral_rate": 0.07,
+        "seen_share": 0.649,
+        "mean_stars_when_seen": 4.27
+      },
+      "pop_entropy": {
+        "users": 10,
+        "answered": 91,
+        "hit_rate": 0.846,
+        "hit_rate_ci95": [
+          0.778,
+          0.913
+        ],
+        "miss_rate": 0.077,
+        "neutral_rate": 0.077,
+        "seen_share": 0.78,
+        "mean_stars_when_seen": 4.44
+      }
+    },
+    "dial": {
+      "0.0": {
+        "answered": 124,
+        "hit_rate": 0.758,
+        "add_to_list_share": 0.129
+      },
+      "0.2": {
+        "answered": 10,
+        "hit_rate": 1.0,
+        "add_to_list_share": 0.0
+      },
+      "0.6": {
+        "answered": 14,
+        "hit_rate": 0.786,
+        "add_to_list_share": 0.357
+      }
+    },
+    "when_to_watch_votes": {
+      "timing_up": 18,
+      "timing_down": 1
+    }
+  }
+}

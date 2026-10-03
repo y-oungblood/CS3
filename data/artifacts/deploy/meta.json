@@ -1,0 +1,13 @@
+{
+  "dataset": "ml-32m",
+  "mode": "deploy",
+  "seed": 42,
+  "n_users": 200948,
+  "n_movies": 16034,
+  "n_ratings": 31498689,
+  "n_neighbor_pairs": 801700,
+  "global_mean_rating": 3.540395498275757,
+  "min_ratings": 50,
+  "k_neighbors": 50,
+  "similarity": "lenskit ItemKNNScorer: cosine on item-mean-centered ratings"
+}

@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/
+data/app.db*
+.env
+*credentials*.json
+Case Study 3.pptx
+History and Context of the Movielens Datasets.pdf
+LensKit for Python.pdf
+SPEC.md
+
+# Test / tool caches
+.pytest_cache/
+
+# Firebase service-account keys (the default download name doesn't contain "credentials")
+*firebase-adminsdk*.json
+serviceAccount*.json
+
+# Dev-only artifacts built from ml-latest-small
+data/artifacts/eval-small/
+
+# Editor / OS
+.vscode/
+Thumbs.db
+desktop.ini

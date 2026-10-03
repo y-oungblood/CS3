@@ -1,0 +1,12 @@
+# Render Blueprint: one free Docker web service built from this repo's Dockerfile.
+services:
+  - type: web
+    name: movie-swipe
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    autoDeploy: true
+    envVars:
+      # The Firebase service-account JSON, pasted in the Render dashboard. Never committed.
+      - key: FIREBASE_CREDENTIALS
+        sync: false

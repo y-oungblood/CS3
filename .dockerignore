@@ -1,0 +1,20 @@
+# Only recsys/, app/, data/artifacts/deploy/ and requirements.txt go into the image.
+.git/
+.venv/
+.pytest_cache/
+**/__pycache__/
+*.pyc
+.env
+*credentials*.json
+*firebase-adminsdk*.json
+serviceAccount*.json
+data/raw/
+data/app.db*
+data/artifacts/eval/
+data/artifacts/eval-small/
+offline/
+results/
+tests/
+*.pdf
+*.pptx
+SPEC.md

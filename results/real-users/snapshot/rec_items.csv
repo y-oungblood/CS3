@@ -1,0 +1,641 @@
+list_id,rank,movie_id,score,explanation
+03d97fbb11014eb7bbec33c095b310c5,1,1210,0.25974248610545375,Because you love Star Wars: Episode IV - A New Hope and rated Star Wars: Episode I - The Phantom Menace ★5.
+03d97fbb11014eb7bbec33c095b310c5,2,1196,0.25177520969635414,Because you love Star Wars: Episode IV - A New Hope and rated Star Wars: Episode I - The Phantom Menace ★5.
+03d97fbb11014eb7bbec33c095b310c5,3,33493,0.24861655932469567,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+03d97fbb11014eb7bbec33c095b310c5,4,3578,0.2468404319661307,Because you love Saving Private Ryan and The Bourne Identity.
+03d97fbb11014eb7bbec33c095b310c5,5,5952,0.22844636424038564,Because you love Star Wars: Episode IV - A New Hope and rated Shrek ★5.
+03d97fbb11014eb7bbec33c095b310c5,6,4993,0.22008871249509965,Because you love Star Wars: Episode IV - A New Hope and rated Shrek ★5.
+03d97fbb11014eb7bbec33c095b310c5,7,7153,0.19459257683330283,Because you love Star Wars: Episode IV - A New Hope and rated Shrek ★5.
+03d97fbb11014eb7bbec33c095b310c5,8,110,0.18861891346124196,Because you love Saving Private Ryan and rated Titanic ★5.
+03d97fbb11014eb7bbec33c095b310c5,9,3793,0.185486013438216,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+03d97fbb11014eb7bbec33c095b310c5,10,1198,0.18399021611279642,Because you love Star Wars: Episode IV - A New Hope and Saving Private Ryan.
+09cab493b0a4456186b12819e7072d31,1,33493,0.1446853964282994,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★4.
+09cab493b0a4456186b12819e7072d31,2,8360,0.11056020522709192,Because you rated Shrek ★5.
+09cab493b0a4456186b12819e7072d31,3,6539,0.11132319682427039,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+09cab493b0a4456186b12819e7072d31,4,5349,0.10968023337899602,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+09cab493b0a4456186b12819e7072d31,5,3793,0.10970039634808489,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+09cab493b0a4456186b12819e7072d31,6,4896,0.10630449733520393,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+09cab493b0a4456186b12819e7072d31,7,3623,0.09917172822434618,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and love Top Gun.
+09cab493b0a4456186b12819e7072d31,8,5816,0.09886516752037583,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Shrek ★5.
+09cab493b0a4456186b12819e7072d31,9,1210,0.0996867620064378,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and love Top Gun.
+09cab493b0a4456186b12819e7072d31,10,5952,0.09552810100910494,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+0d771863b3c84f7bb069c704df455b8e,1,33493,0.1446853964282994,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★4.
+0d771863b3c84f7bb069c704df455b8e,2,6539,0.11132319682427039,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+0d771863b3c84f7bb069c704df455b8e,3,8360,0.11056020522709192,Because you rated Shrek ★5.
+0d771863b3c84f7bb069c704df455b8e,4,3793,0.10970039634808489,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+0d771863b3c84f7bb069c704df455b8e,5,5349,0.10968023337899602,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+0d771863b3c84f7bb069c704df455b8e,6,4896,0.10630449733520393,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+0d771863b3c84f7bb069c704df455b8e,7,1210,0.0996867620064378,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and love Top Gun.
+0d771863b3c84f7bb069c704df455b8e,8,3623,0.09917172822434618,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and love Top Gun.
+0d771863b3c84f7bb069c704df455b8e,9,5816,0.09886516752037583,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Shrek ★5.
+0d771863b3c84f7bb069c704df455b8e,10,5952,0.09552810100910494,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+0da0050cbfd64835ae1603d09b3b6344,1,5723,0.04857895645838887,Because you love Urban Cowboy and Valley Girl.
+0da0050cbfd64835ae1603d09b3b6344,2,5197,0.047854415904434525,Because you love Urban Cowboy and Valley Girl.
+0da0050cbfd64835ae1603d09b3b6344,3,1290,0.04460727396205545,Because you love Better Off Dead... and Valley Girl.
+0da0050cbfd64835ae1603d09b3b6344,4,2261,0.044540908147325,Because you love Better Off Dead....
+0da0050cbfd64835ae1603d09b3b6344,5,6636,0.04440968608863563,Because you love Valley Girl and Better Off Dead....
+0da0050cbfd64835ae1603d09b3b6344,6,1297,0.04185126334574447,Because you love Better Off Dead....
+0da0050cbfd64835ae1603d09b3b6344,7,4482,0.040098019882571244,Because you love Valley Girl and Urban Cowboy.
+0da0050cbfd64835ae1603d09b3b6344,8,2134,0.033491337203746196,Because you love Better Off Dead....
+0da0050cbfd64835ae1603d09b3b6344,9,4180,0.033167204237387296,Because you love Valley Girl and Urban Cowboy.
+0da0050cbfd64835ae1603d09b3b6344,10,5693,0.0326113793313108,Because you love Urban Cowboy.
+10772c84c896499a9d8a1e54912cba87,1,33493,0.1902908578721059,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+10772c84c896499a9d8a1e54912cba87,2,1210,0.1839330084618933,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+10772c84c896499a9d8a1e54912cba87,3,1580,0.1633864391858219,Because you love Independence Day (a.k.a. ID4) and rated Star Wars: Episode I - The Phantom Menace ★5.
+10772c84c896499a9d8a1e54912cba87,4,260,0.15035708088188207,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+10772c84c896499a9d8a1e54912cba87,5,733,0.14764394845896306,Because you love Independence Day (a.k.a. ID4) and Die Hard.
+10772c84c896499a9d8a1e54912cba87,6,2115,0.14603733874245833,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and love Die Hard.
+10772c84c896499a9d8a1e54912cba87,7,1101,0.142485506793038,Because you love Independence Day (a.k.a. ID4) and Die Hard.
+10772c84c896499a9d8a1e54912cba87,8,648,0.14139311140267805,Because you love Independence Day (a.k.a. ID4) and rated Star Wars: Episode I - The Phantom Menace ★5.
+10772c84c896499a9d8a1e54912cba87,9,1544,0.13820482525890807,Because you love Independence Day (a.k.a. ID4) and rated Star Wars: Episode I - The Phantom Menace ★5.
+10772c84c896499a9d8a1e54912cba87,10,3623,0.13744810224548967,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+15da95bada464655ab7a7b5f12c1800c,1,59315,0.18383266493472442,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and The Incredibles ★5.
+15da95bada464655ab7a7b5f12c1800c,2,7438,0.17659045212229307,Because you rated Kill Bill: Vol. 1 ★4 and love Fight Club.
+15da95bada464655ab7a7b5f12c1800c,3,5952,0.16881309323985302,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+15da95bada464655ab7a7b5f12c1800c,4,5418,0.16589383970892008,Because you love Casino Royale and rated Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+15da95bada464655ab7a7b5f12c1800c,5,7153,0.16523877790595673,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+15da95bada464655ab7a7b5f12c1800c,6,4993,0.16523508696607675,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+15da95bada464655ab7a7b5f12c1800c,7,5445,0.1566659999768939,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and love Casino Royale.
+15da95bada464655ab7a7b5f12c1800c,8,2571,0.15558382078111177,Because you love Fight Club and rated Shrek ★5.
+15da95bada464655ab7a7b5f12c1800c,9,3578,0.1508198336790313,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+15da95bada464655ab7a7b5f12c1800c,10,68157,0.14701925734083163,Because you love Fight Club and Casino Royale.
+1642777cba054feb99f93e6cf7eb37df,1,33493,0.20243844754343598,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+1642777cba054feb99f93e6cf7eb37df,2,1580,0.191177208087119,Because you love Independence Day (a.k.a. ID4) and rated Star Wars: Episode I - The Phantom Menace ★5.
+1642777cba054feb99f93e6cf7eb37df,3,1210,0.18106046081900298,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+1642777cba054feb99f93e6cf7eb37df,4,6365,0.16289749638645623,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+1642777cba054feb99f93e6cf7eb37df,5,3578,0.15669276069501184,Because you rated Shrek ★5 and love Independence Day (a.k.a. ID4).
+1642777cba054feb99f93e6cf7eb37df,6,260,0.14800890052050558,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+1642777cba054feb99f93e6cf7eb37df,7,733,0.1447804160346559,Because you love Independence Day (a.k.a. ID4) and Die Hard.
+1642777cba054feb99f93e6cf7eb37df,8,2115,0.143412703107559,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and love Die Hard.
+1642777cba054feb99f93e6cf7eb37df,9,1101,0.13940913832573032,Because you love Independence Day (a.k.a. ID4) and Die Hard.
+1642777cba054feb99f93e6cf7eb37df,10,3793,0.13733195005333493,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,1,33493,0.24861655932469567,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,2,1210,0.25974248610545375,Because you love Star Wars: Episode IV - A New Hope and rated Star Wars: Episode I - The Phantom Menace ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,3,1196,0.25177520969635414,Because you love Star Wars: Episode IV - A New Hope and rated Star Wars: Episode I - The Phantom Menace ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,4,3578,0.2468404319661307,Because you love Saving Private Ryan and The Bourne Identity.
+1cf57252d5054bb8b7a0ff85f02a4313,5,5952,0.22844636424038564,Because you love Star Wars: Episode IV - A New Hope and rated Shrek ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,6,4993,0.22008871249509965,Because you love Star Wars: Episode IV - A New Hope and rated Shrek ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,7,7153,0.19459257683330283,Because you love Star Wars: Episode IV - A New Hope and rated Shrek ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,8,3793,0.185486013438216,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,9,110,0.18861891346124196,Because you love Saving Private Ryan and rated Titanic ★5.
+1cf57252d5054bb8b7a0ff85f02a4313,10,6365,0.17431484519991086,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+1e0e71303d6747578f8f536d6ee040e3,1,8640,0.02942281227521782,Because you love The Last Samurai.
+1e0e71303d6747578f8f536d6ee040e3,2,5152,0.027878988774447305,Because you love The Last Samurai.
+1e0e71303d6747578f8f536d6ee040e3,3,33162,0.03485928575012883,Because you love The Last Samurai.
+1e0e71303d6747578f8f536d6ee040e3,4,7162,0.023080814789445625,Because you love The Last Samurai.
+1e0e71303d6747578f8f536d6ee040e3,5,7318,0.03017995882402172,Because you love The Last Samurai and rated The Matrix Reloaded ★4.
+1e0e71303d6747578f8f536d6ee040e3,6,104913,0.025258242291387272,Because you love The Prestige.
+1e0e71303d6747578f8f536d6ee040e3,7,114935,0.02960725508794261,Because you love The Prestige.
+1e0e71303d6747578f8f536d6ee040e3,8,33794,0.19451990931757163,Because you love The Dark Knight and The Lord of the Rings: The Return of the King.
+1e0e71303d6747578f8f536d6ee040e3,9,6565,0.023012356197011405,Because you love The Last Samurai.
+1e0e71303d6747578f8f536d6ee040e3,10,54997,0.05262895198562726,Because you love The Prestige and The Last Samurai.
+20e46392686140a884c0018a2defba4f,1,3793,0.23522164509322382,Because you rated Spider-Man ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+20e46392686140a884c0018a2defba4f,2,8644,0.2154746069845353,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+20e46392686140a884c0018a2defba4f,3,3578,0.21497933981940637,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and 300 ★5.
+20e46392686140a884c0018a2defba4f,4,5418,0.211809969400314,Because you rated Spider-Man ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+20e46392686140a884c0018a2defba4f,5,45722,0.20964089958675247,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and The Matrix Revolutions ★5.
+20e46392686140a884c0018a2defba4f,6,5952,0.20728603752095764,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Spider-Man ★5.
+20e46392686140a884c0018a2defba4f,7,33794,0.20532717539935816,Because you rated Spider-Man ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+20e46392686140a884c0018a2defba4f,8,7153,0.20189356582629492,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Spider-Man ★5.
+20e46392686140a884c0018a2defba4f,9,8636,0.19752368162071277,Because you rated Spider-Man ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+20e46392686140a884c0018a2defba4f,10,4896,0.19646183659399108,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Spider-Man ★5.
+21d9fd6e03c647109468dcc7d567577b,1,33493,0.16587343261577409,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+21d9fd6e03c647109468dcc7d567577b,2,8644,0.13829010466177138,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+21d9fd6e03c647109468dcc7d567577b,3,3578,0.12477753772973843,Because you rated The Matrix Reloaded ★5 and The Matrix Revolutions ★5.
+21d9fd6e03c647109468dcc7d567577b,4,2571,0.12374584824920419,Because you rated The Matrix Reloaded ★5 and The Matrix Revolutions ★5.
+21d9fd6e03c647109468dcc7d567577b,5,5459,0.11916362955239045,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+21d9fd6e03c647109468dcc7d567577b,6,6537,0.11866601775915818,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+21d9fd6e03c647109468dcc7d567577b,7,45722,0.11851380796925062,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+21d9fd6e03c647109468dcc7d567577b,8,44191,0.11782405921027846,Because you rated The Matrix Reloaded ★5 and The Matrix Revolutions ★5.
+21d9fd6e03c647109468dcc7d567577b,9,5418,0.11236061128479634,Because you rated The Matrix Reloaded ★5 and The Matrix Revolutions ★5.
+21d9fd6e03c647109468dcc7d567577b,10,45499,0.1121411974849754,Because you rated The Matrix Revolutions ★5 and The Matrix Reloaded ★5.
+25c9ddc24e964c7d9c44bc1014b558d7,1,117194,0.0765083288312406,Because you love Dolphin Tale.
+25c9ddc24e964c7d9c44bc1014b558d7,2,287823,0.0671617955303234,Because you love Bottoms.
+25c9ddc24e964c7d9c44bc1014b558d7,3,286569,0.05715351934390006,Because you love Bottoms.
+25c9ddc24e964c7d9c44bc1014b558d7,4,210569,0.051109850044315876,Because you love Ocean's 8.
+25c9ddc24e964c7d9c44bc1014b558d7,5,184471,0.048376770186470554,Because you love Ocean's 8.
+25c9ddc24e964c7d9c44bc1014b558d7,6,122906,0.04618616882294083,Because you love Ocean's 8.
+25c9ddc24e964c7d9c44bc1014b558d7,7,187031,0.045365398286596165,Because you love Ocean's 8.
+25c9ddc24e964c7d9c44bc1014b558d7,8,201586,0.04519576495360631,Because you love Ocean's 8.
+25c9ddc24e964c7d9c44bc1014b558d7,9,192389,0.04460663273770723,Because you love Ocean's 8.
+25c9ddc24e964c7d9c44bc1014b558d7,10,122910,0.04433326080161619,Because you love Ocean's 8.
+2795f8d0f1f74bf3a65de21601b9209d,1,5816,0.2387895370527845,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+2795f8d0f1f74bf3a65de21601b9209d,2,40815,0.23217682020284783,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+2795f8d0f1f74bf3a65de21601b9209d,3,8368,0.22346193767038874,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+2795f8d0f1f74bf3a65de21601b9209d,4,45722,0.20789877817598995,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+2795f8d0f1f74bf3a65de21601b9209d,5,5952,0.18019462528745608,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+2795f8d0f1f74bf3a65de21601b9209d,6,4993,0.17735797860806055,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+2795f8d0f1f74bf3a65de21601b9209d,7,54001,0.17698417348875523,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+2795f8d0f1f74bf3a65de21601b9209d,8,52722,0.1763708772024043,Because you rated Indiana Jones and the Kingdom of the Crystal Skull ★5 and love Cars.
+2795f8d0f1f74bf3a65de21601b9209d,9,53996,0.17440984924463449,Because you rated Avatar ★5 and Indiana Jones and the Kingdom of the Crystal Skull ★5.
+2795f8d0f1f74bf3a65de21601b9209d,10,6539,0.1739657713203404,Because you rated Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+28c5234697e44d10bcf00aecd20c7e7f,1,44191,0.21625429435176402,Because you love The Prestige and rated Inception ★5.
+28c5234697e44d10bcf00aecd20c7e7f,2,527,0.20196578654183936,Because you love The Shawshank Redemption and rated Gladiator ★5.
+28c5234697e44d10bcf00aecd20c7e7f,3,2959,0.19640537202377653,Because you rated Inception ★5 and love The Dark Knight.
+28c5234697e44d10bcf00aecd20c7e7f,4,1196,0.1897484616983873,Because you rated The Lord of the Rings: The Fellowship of the Ring ★5 and The Lord of the Rings: The Two Towers ★5.
+28c5234697e44d10bcf00aecd20c7e7f,5,2028,0.18973148427738132,Because you rated Gladiator ★5 and love The Shawshank Redemption.
+28c5234697e44d10bcf00aecd20c7e7f,6,48516,0.18919242854446758,Because you love The Prestige and The Dark Knight.
+28c5234697e44d10bcf00aecd20c7e7f,7,5349,0.18118879358287096,Because you rated The Lord of the Rings: The Two Towers ★5 and The Lord of the Rings: The Fellowship of the Ring ★5.
+28c5234697e44d10bcf00aecd20c7e7f,8,110,0.17904364769296063,Because you rated Gladiator ★5 and love The Shawshank Redemption.
+28c5234697e44d10bcf00aecd20c7e7f,9,5445,0.1789143914491447,Because you rated Gladiator ★5 and love The Last Samurai.
+28c5234697e44d10bcf00aecd20c7e7f,10,4995,0.17505232769051773,Because you rated Gladiator ★5 and love The Prestige.
+2e5e70be51304a72947e99bd829c2fad,1,33493,0.14651016042189502,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+2e5e70be51304a72947e99bd829c2fad,2,53996,0.09721790787558454,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+2e5e70be51304a72947e99bd829c2fad,3,98809,0.09337922785414045,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+2e5e70be51304a72947e99bd829c2fad,4,106489,0.08939724810293335,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+2e5e70be51304a72947e99bd829c2fad,5,91529,0.0952427727347019,Because you love The Prestige and rated Avatar ★5.
+2e5e70be51304a72947e99bd829c2fad,6,103249,0.07911562787371364,Because you love Real Steel and rated Avatar ★5.
+2e5e70be51304a72947e99bd829c2fad,7,40815,0.08981387434923048,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+2e5e70be51304a72947e99bd829c2fad,8,109487,0.09059859983951772,Because you love The Prestige and rated Avatar ★5.
+2e5e70be51304a72947e99bd829c2fad,9,79132,0.0927730011619594,Because you love The Prestige and rated Avatar ★5.
+2e5e70be51304a72947e99bd829c2fad,10,88744,0.0745581660374568,Because you rated Avatar ★5 and love Real Steel.
+2f727663e7ed4989b3e3f71bb28a2045,1,1707,0.09763860075400284,Because you rated Home Alone 2: Lost in New York ★5 and Home Alone ★5.
+2f727663e7ed4989b3e3f71bb28a2045,2,3247,0.09591398749255725,Because you rated Home Alone 2: Lost in New York ★5 and Home Alone ★5.
+2f727663e7ed4989b3e3f71bb28a2045,3,374,0.09460561840870262,Because you rated Home Alone 2: Lost in New York ★5 and Home Alone ★5.
+2f727663e7ed4989b3e3f71bb28a2045,4,455,0.09033774489378009,Because you rated Home Alone ★5 and Home Alone 2: Lost in New York ★5.
+2f727663e7ed4989b3e3f71bb28a2045,5,2054,0.0870221771646098,Because you rated Home Alone ★5 and Home Alone 2: Lost in New York ★5.
+2f727663e7ed4989b3e3f71bb28a2045,6,7004,0.08451812439991473,Because you rated Home Alone 2: Lost in New York ★5 and Home Alone ★5.
+2f727663e7ed4989b3e3f71bb28a2045,7,2082,0.08167004636336146,Because you rated Home Alone 2: Lost in New York ★5 and Home Alone ★5.
+2f727663e7ed4989b3e3f71bb28a2045,8,355,0.08103225933054224,Because you rated Home Alone ★5 and Home Alone 2: Lost in New York ★5.
+2f727663e7ed4989b3e3f71bb28a2045,9,2420,0.08091394791414773,Because you rated Home Alone ★5 and Home Alone 2: Lost in New York ★5.
+2f727663e7ed4989b3e3f71bb28a2045,10,158,0.08067383705554017,Because you rated Home Alone ★5 and Home Alone 2: Lost in New York ★5.
+30492b0f05af4ee782de56670857152a,1,242894,0.0748577606340564,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,2,186587,0.06184673702873121,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,3,274195,0.04414706683986768,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,4,114033,0.02916005872064928,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,5,278312,0.03788688475317807,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,6,210867,0.03758755343867494,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,7,188309,0.04309029461754253,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,8,282125,0.03411616962057717,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,9,200822,0.04970335024467813,Because you love Godzilla: King of the Monsters.
+30492b0f05af4ee782de56670857152a,10,222011,0.031847694118662145,Because you love Godzilla: King of the Monsters.
+304f510197c54c30a7f6770be863cfe6,1,273133,0.04566193809342436,Because you love Top Gun: Maverick.
+304f510197c54c30a7f6770be863cfe6,2,33493,0.1446853964282994,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★4.
+304f510197c54c30a7f6770be863cfe6,3,270696,0.03338157605443903,Because you love Top Gun: Maverick.
+304f510197c54c30a7f6770be863cfe6,4,224280,0.046105962564775296,Because you love Top Gun: Maverick.
+304f510197c54c30a7f6770be863cfe6,5,61160,0.046379171520818926,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★4.
+304f510197c54c30a7f6770be863cfe6,6,226202,0.036006396070743,Because you love Top Gun: Maverick.
+304f510197c54c30a7f6770be863cfe6,7,8360,0.11056020522709192,Because you rated Shrek ★5.
+304f510197c54c30a7f6770be863cfe6,8,4487,0.03893153654236773,Because you love Top Gun.
+304f510197c54c30a7f6770be863cfe6,9,268642,0.04512378129540134,Because you love Top Gun: Maverick.
+304f510197c54c30a7f6770be863cfe6,10,263007,0.05008692969760197,Because you love Top Gun: Maverick.
+31656a5d6bc24ef691acb2258d81b28a,1,68954,0.11555173124084128,Because you love Toy Story 3 and The Dark Knight.
+31656a5d6bc24ef691acb2258d81b28a,2,91529,0.11142537844896463,Because you love The Dark Knight and rated Avatar ★4.
+31656a5d6bc24ef691acb2258d81b28a,3,60069,0.1064491168254677,Because you love Toy Story 3 and The Dark Knight.
+31656a5d6bc24ef691acb2258d81b28a,4,33794,0.09659151660403502,Because you love The Dark Knight and rated Avatar ★4.
+31656a5d6bc24ef691acb2258d81b28a,5,8961,0.09554495653130539,Because you love Toy Story 3 and The Dark Knight.
+31656a5d6bc24ef691acb2258d81b28a,6,2959,0.08641234973065368,Because you love Pulp Fiction and The Dark Knight.
+31656a5d6bc24ef691acb2258d81b28a,7,68157,0.0790673649196646,Because you love The Dark Knight and Pulp Fiction.
+31656a5d6bc24ef691acb2258d81b28a,8,6874,0.07883078183321628,Because you love Pulp Fiction and The Dark Knight.
+31656a5d6bc24ef691acb2258d81b28a,9,59315,0.0786504837760627,Because you love The Dark Knight and rated Avatar ★4.
+31656a5d6bc24ef691acb2258d81b28a,10,79132,0.07586415732219422,Because you love The Dark Knight and rated Avatar ★4.
+35d0aa26a3db40088d83991282dc3aa5,1,61160,0.11939919601471251,Because you rated Star Wars: Episode III - Revenge of the Sith ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+35d0aa26a3db40088d83991282dc3aa5,2,170957,0.03788816351768875,Because you love Cars.
+35d0aa26a3db40088d83991282dc3aa5,3,52722,0.1763708772024043,Because you rated Indiana Jones and the Kingdom of the Crystal Skull ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.
+35d0aa26a3db40088d83991282dc3aa5,4,53996,0.17440984924463449,Because you rated Pirates of the Caribbean: Dead Man's Chest ★5 and Avatar ★5.
+35d0aa26a3db40088d83991282dc3aa5,5,87876,0.061355926997981994,Because you love Cars.
+35d0aa26a3db40088d83991282dc3aa5,6,5944,0.10866625270390078,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+35d0aa26a3db40088d83991282dc3aa5,7,106489,0.1601139422068426,Because you rated Harry Potter and the Goblet of Fire ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.
+35d0aa26a3db40088d83991282dc3aa5,8,98809,0.16992462911322234,Because you rated Harry Potter and the Goblet of Fire ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.
+35d0aa26a3db40088d83991282dc3aa5,9,46530,0.10050544915292986,Because you rated Indiana Jones and the Kingdom of the Crystal Skull ★5 and love Cars.
+35d0aa26a3db40088d83991282dc3aa5,10,48982,0.03942756386894939,Because you love Cars.
+38943017762645b6b231ae574989c2ce,1,281096,0.07602743560515908,Because you rated Spider-Man: Across the Spider-Verse ★5 and love Spider-Man: Into the Spider-Verse.
+38943017762645b6b231ae574989c2ce,2,87520,0.12896059173462915,Because you rated Transformers ★5 and love Real Steel.
+38943017762645b6b231ae574989c2ce,3,174585,0.04236383203509202,Because you rated Transformers ★5 and added Teenage Mutant Ninja Turtles to your list.
+38943017762645b6b231ae574989c2ce,4,288513,0.04302543474168215,Because you rated Spider-Man: Across the Spider-Verse ★5.
+38943017762645b6b231ae574989c2ce,5,285593,0.044535965824833115,Because you rated Spider-Man: Across the Spider-Verse ★5.
+38943017762645b6b231ae574989c2ce,6,69526,0.139458561595674,Because you rated Transformers ★5 and love Real Steel.
+38943017762645b6b231ae574989c2ce,7,70336,0.08802858621234766,Because you rated Transformers ★5 and love Real Steel.
+38943017762645b6b231ae574989c2ce,8,112370,0.07494354359964844,Because you rated Transformers ★5 and added Teenage Mutant Ninja Turtles to your list.
+38943017762645b6b231ae574989c2ce,9,112897,0.05653015340594645,Because you love Real Steel and added Teenage Mutant Ninja Turtles to your list.
+38943017762645b6b231ae574989c2ce,10,87430,0.09977496956533843,Because you love Real Steel and rated Transformers ★5.
+399d3ad114014039a90e523791b68c01,1,5952,0.21928340709888608,Because you love The Lord of the Rings: The Return of the King and The Dark Knight.
+399d3ad114014039a90e523791b68c01,2,4993,0.21061968238504253,Because you love The Lord of the Rings: The Return of the King and The Dark Knight.
+399d3ad114014039a90e523791b68c01,3,79132,0.19992761968602776,Because you love The Dark Knight and The Prestige.
+399d3ad114014039a90e523791b68c01,4,33794,0.19451990931757163,Because you love The Dark Knight and The Lord of the Rings: The Return of the King.
+399d3ad114014039a90e523791b68c01,5,44191,0.16385443554532197,Because you love The Prestige and The Dark Knight.
+399d3ad114014039a90e523791b68c01,6,3578,0.15690279949201807,Because you love The Lord of the Rings: The Return of the King and The Last Samurai.
+399d3ad114014039a90e523791b68c01,7,91529,0.15127891491592554,Because you love The Dark Knight and The Prestige.
+399d3ad114014039a90e523791b68c01,8,2571,0.14145212318554726,Because you love The Lord of the Rings: The Return of the King and The Dark Knight.
+399d3ad114014039a90e523791b68c01,9,4995,0.12866741159995707,Because you love The Prestige and The Last Samurai.
+399d3ad114014039a90e523791b68c01,10,48516,0.123378681088457,Because you love The Prestige and The Dark Knight.
+3d21bcd304b04e46be94698e9342f126,1,281096,0.07602743560515908,Because you rated Spider-Man: Across the Spider-Verse ★5 and love Spider-Man: Into the Spider-Verse.
+3d21bcd304b04e46be94698e9342f126,2,87520,0.12896059173462915,Because you rated Transformers ★5 and love Real Steel.
+3d21bcd304b04e46be94698e9342f126,3,174585,0.04236383203509202,Because you rated Transformers ★5 and added Teenage Mutant Ninja Turtles to your list.
+3d21bcd304b04e46be94698e9342f126,4,288513,0.04302543474168215,Because you rated Spider-Man: Across the Spider-Verse ★5.
+3d21bcd304b04e46be94698e9342f126,5,285593,0.044535965824833115,Because you rated Spider-Man: Across the Spider-Verse ★5.
+3d21bcd304b04e46be94698e9342f126,6,69526,0.139458561595674,Because you rated Transformers ★5 and love Real Steel.
+3d21bcd304b04e46be94698e9342f126,7,70336,0.08802858621234766,Because you rated Transformers ★5 and love Real Steel.
+3d21bcd304b04e46be94698e9342f126,8,112370,0.07494354359964844,Because you rated Transformers ★5 and added Teenage Mutant Ninja Turtles to your list.
+3d21bcd304b04e46be94698e9342f126,9,112897,0.05653015340594645,Because you love Real Steel and added Teenage Mutant Ninja Turtles to your list.
+3d21bcd304b04e46be94698e9342f126,10,87430,0.09977496956533843,Because you love Real Steel and rated Transformers ★5.
+3df7db2a5e214bad90d9e7b147de6d36,1,33493,0.24643298254965423,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+3df7db2a5e214bad90d9e7b147de6d36,2,858,0.15924516277853568,Because you love The Godfather: Part II and The Silence of the Lambs.
+3df7db2a5e214bad90d9e7b147de6d36,3,4896,0.13739990728714407,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+3df7db2a5e214bad90d9e7b147de6d36,4,1196,0.13576755057992357,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+3df7db2a5e214bad90d9e7b147de6d36,5,59615,0.13095406981332872,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+3df7db2a5e214bad90d9e7b147de6d36,6,5952,0.12110846497831808,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+3df7db2a5e214bad90d9e7b147de6d36,7,8644,0.11973671653030561,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+3df7db2a5e214bad90d9e7b147de6d36,8,45722,0.11166464584389942,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+3df7db2a5e214bad90d9e7b147de6d36,9,3578,0.11142682206379005,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Titanic ★5.
+3df7db2a5e214bad90d9e7b147de6d36,10,3793,0.10758934909911962,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+435e610d2e6b457585c120070fddcf21,1,1240,0.08607353887889391,Because you love Back to the Future and rated Groundhog Day ★5.
+435e610d2e6b457585c120070fddcf21,2,1036,0.08501269350961506,Because you love Back to the Future and rated Groundhog Day ★5.
+435e610d2e6b457585c120070fddcf21,3,589,0.07433158187925193,Because you love Back to the Future and rated Groundhog Day ★5.
+435e610d2e6b457585c120070fddcf21,4,78499,0.07394887106436775,Because you love The Lego Movie and rated Toy Story ★4.
+435e610d2e6b457585c120070fddcf21,5,2797,0.06700633973718977,Because you love Back to the Future and rated Groundhog Day ★5.
+435e610d2e6b457585c120070fddcf21,6,134853,0.06536493332366637,Because you love The Lego Movie and rated Wreck-It Ralph ★4.
+435e610d2e6b457585c120070fddcf21,7,1196,0.0632402272823462,Because you love Back to the Future and rated Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) ★4.
+435e610d2e6b457585c120070fddcf21,8,1197,0.062404036451729365,Because you love Back to the Future and rated Groundhog Day ★5.
+435e610d2e6b457585c120070fddcf21,9,81564,0.06141338843225488,Because you love The Lego Movie and rated Wreck-It Ralph ★4.
+435e610d2e6b457585c120070fddcf21,10,1307,0.06029356463562785,Because you love Back to the Future and rated Groundhog Day ★5.
+470c30ea7acc45aa9858ee763f47d076,1,527,0.059519811188612916,Because you love The Silence of the Lambs and rated Titanic ★4.
+470c30ea7acc45aa9858ee763f47d076,2,47,0.05788031840218483,Because you love The Silence of the Lambs.
+470c30ea7acc45aa9858ee763f47d076,3,2485,0.05568750523981745,Because you love 10 Things I Hate About You.
+470c30ea7acc45aa9858ee763f47d076,4,296,0.050118876348396145,Because you love The Silence of the Lambs.
+470c30ea7acc45aa9858ee763f47d076,5,318,0.050011579704095706,Because you love The Silence of the Lambs.
+470c30ea7acc45aa9858ee763f47d076,6,2581,0.048116580262006055,Because you love 10 Things I Hate About You.
+470c30ea7acc45aa9858ee763f47d076,7,4447,0.04806814870465302,Because you love 10 Things I Hate About You.
+470c30ea7acc45aa9858ee763f47d076,8,2671,0.047957207808201924,Because you love 10 Things I Hate About You and rated Titanic ★4.
+470c30ea7acc45aa9858ee763f47d076,9,1704,0.04502226155983739,Because you love The Silence of the Lambs and rated Titanic ★4.
+470c30ea7acc45aa9858ee763f47d076,10,4025,0.04495128293063007,Because you love 10 Things I Hate About You.
+474b0eeff80d425cb1ddf6968fe5e1e3,1,32596,0.08664143877608042,Because you love National Treasure and National Treasure: Book of Secrets.
+474b0eeff80d425cb1ddf6968fe5e1e3,2,68793,0.10009146408372224,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,3,79139,0.09194279220467368,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,4,39435,0.0844774964911316,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,5,51412,0.08465181389702683,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,6,51077,0.10011740269534355,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,7,46972,0.1288767273115503,Because you love National Treasure and National Treasure: Book of Secrets.
+474b0eeff80d425cb1ddf6968fe5e1e3,8,78105,0.08937934072875592,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,9,53993,0.08047234054994731,Because you love National Treasure: Book of Secrets and National Treasure.
+474b0eeff80d425cb1ddf6968fe5e1e3,10,68554,0.10290745618939359,Because you love National Treasure: Book of Secrets and National Treasure.
+49ae39067bc847e992ba81b8c692a808,1,780,0.10043132045104997,Because you love Jurassic Park and added Armageddon to your list.
+49ae39067bc847e992ba81b8c692a808,2,1580,0.08652519549046662,Because you love Jurassic Park and rated Shrek ★4.
+49ae39067bc847e992ba81b8c692a808,3,1544,0.08237809104934724,Because you love Jurassic Park and added Armageddon to your list.
+49ae39067bc847e992ba81b8c692a808,4,377,0.08228989278729067,Because you love Jurassic Park and rated Titanic ★4.
+49ae39067bc847e992ba81b8c692a808,5,356,0.07952380954170193,Because you love Jurassic Park and rated Titanic ★4.
+49ae39067bc847e992ba81b8c692a808,6,3578,0.07802800288794966,Because you love Jurassic Park and rated Shrek ★4.
+49ae39067bc847e992ba81b8c692a808,7,364,0.07649233505322066,Because you love Jurassic Park and rated Shrek ★4.
+49ae39067bc847e992ba81b8c692a808,8,242894,0.0748577606340564,Because you love Godzilla: King of the Monsters.
+49ae39067bc847e992ba81b8c692a808,9,736,0.07321729268513909,Because you love Jurassic Park and rated Titanic ★4.
+49ae39067bc847e992ba81b8c692a808,10,1210,0.0702679896995289,Because you love Jurassic Park and added Star Wars: Episode I - The Phantom Menace to your list.
+4c5f23d047b74308ab6f12e3f70055ca,1,2011,0.11470993762328076,Because you love Back to the Future and The Truman Show.
+4c5f23d047b74308ab6f12e3f70055ca,2,1265,0.09617020995413518,Because you love Back to the Future and The Truman Show.
+4c5f23d047b74308ab6f12e3f70055ca,3,1,0.0786229118859463,Because you love Back to the Future and The Truman Show.
+4c5f23d047b74308ab6f12e3f70055ca,4,2012,0.07853582291700788,Because you love Back to the Future and The Truman Show.
+4c5f23d047b74308ab6f12e3f70055ca,5,2716,0.0734372931309294,Because you love Back to the Future.
+4c5f23d047b74308ab6f12e3f70055ca,6,1198,0.06413294829669478,Because you love Back to the Future.
+4c5f23d047b74308ab6f12e3f70055ca,7,97913,0.061953619553883205,Because you love The Lego Movie.
+4c5f23d047b74308ab6f12e3f70055ca,8,2291,0.061862012297099006,Because you love The Truman Show and Back to the Future.
+4c5f23d047b74308ab6f12e3f70055ca,9,1961,0.0603689974688291,Because you love The Truman Show and Back to the Future.
+4c5f23d047b74308ab6f12e3f70055ca,10,1653,0.05894100868613435,Because you love The Truman Show and Back to the Future.
+51b924eb583e45038eb62bc0a281a8b5,1,103335,0.2085630237246175,Because you rated Despicable Me 3 ★5 and Rio ★5.
+51b924eb583e45038eb62bc0a281a8b5,2,88356,0.19764236424068468,Because you rated Turbo ★5 and Rio ★5.
+51b924eb583e45038eb62bc0a281a8b5,3,136016,0.18748469412170668,Because you rated Turbo ★5 and Rio ★5.
+51b924eb583e45038eb62bc0a281a8b5,4,135887,0.18739964746859675,Because you rated Despicable Me 3 ★5 and love Cars 2.
+51b924eb583e45038eb62bc0a281a8b5,5,69644,0.18465457955961714,Because you rated Rio ★5 and love Cars 2.
+51b924eb583e45038eb62bc0a281a8b5,6,142997,0.18201555112830323,Because you rated Despicable Me 3 ★5 and Turbo ★5.
+51b924eb583e45038eb62bc0a281a8b5,7,117851,0.17903604592919303,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+51b924eb583e45038eb62bc0a281a8b5,8,165141,0.17293632730870814,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+51b924eb583e45038eb62bc0a281a8b5,9,167036,0.1704021283932931,Because you rated Despicable Me 3 ★5 and love Cars 3.
+51b924eb583e45038eb62bc0a281a8b5,10,105468,0.17035854497532696,Because you rated Turbo ★5 and Rio ★5.
+537c953b047648c2afa53800100745a7,1,1221,0.16012198261086935,Because you love The Godfather and Reservoir Dogs.
+537c953b047648c2afa53800100745a7,2,1213,0.10856813747069258,Because you love The Godfather and Reservoir Dogs.
+537c953b047648c2afa53800100745a7,3,296,0.09916865209554222,Because you love Reservoir Dogs and The Godfather.
+537c953b047648c2afa53800100745a7,4,33493,0.09663041983612304,Because you rated Star Wars: Episode II - Attack of the Clones ★4 and Star Wars: Episode I - The Phantom Menace ★4.
+537c953b047648c2afa53800100745a7,5,1193,0.08484403043644154,Because you love The Godfather and Reservoir Dogs.
+537c953b047648c2afa53800100745a7,6,111,0.08078225663729786,Because you love Reservoir Dogs and The Godfather.
+537c953b047648c2afa53800100745a7,7,1208,0.07979577564366769,Because you love The Godfather and Reservoir Dogs.
+537c953b047648c2afa53800100745a7,8,50,0.07887446030863238,Because you love Reservoir Dogs and The Godfather.
+537c953b047648c2afa53800100745a7,9,1222,0.07824453573286469,Because you love Reservoir Dogs and The Godfather.
+537c953b047648c2afa53800100745a7,10,593,0.07235441097854486,Because you love The Godfather and Reservoir Dogs.
+59dce0da84984d97897cd3dba58c6841,1,44191,0.23238627141780988,Because you love The Prestige and rated Inception ★5.
+59dce0da84984d97897cd3dba58c6841,2,1196,0.21083943380337528,Because you rated The Lord of the Rings: The Fellowship of the Ring ★5 and The Lord of the Rings: The Two Towers ★5.
+59dce0da84984d97897cd3dba58c6841,3,5349,0.21011755533389004,Because you rated Star Wars: Episode III - Revenge of the Sith ★5 and The Lord of the Rings: The Two Towers ★5.
+59dce0da84984d97897cd3dba58c6841,4,527,0.19979391719290424,Because you love The Shawshank Redemption and rated Gladiator ★5.
+59dce0da84984d97897cd3dba58c6841,5,5445,0.19942285448110922,Because you rated Gladiator ★5 and love The Last Samurai.
+59dce0da84984d97897cd3dba58c6841,6,1210,0.19423184467013468,Because you rated Star Wars: Episode III - Revenge of the Sith ★5 and The Lord of the Rings: The Two Towers ★5.
+59dce0da84984d97897cd3dba58c6841,7,2959,0.19420851068521797,Because you rated Inception ★5 and love The Dark Knight.
+59dce0da84984d97897cd3dba58c6841,8,2028,0.18731286300663802,Because you rated Gladiator ★5 and love The Shawshank Redemption.
+59dce0da84984d97897cd3dba58c6841,9,48516,0.1872185467172104,Because you love The Prestige and The Dark Knight.
+59dce0da84984d97897cd3dba58c6841,10,98809,0.1850608318338145,Because you rated The Lord of the Rings: The Two Towers ★5 and love The Lord of the Rings: The Return of the King.
+5aa48ff0ca094e41b6826fa220cd58f6,1,4896,0.25336230848727503,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,2,5952,0.2284232061313119,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,3,5816,0.22682134566509432,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,4,4993,0.22358716535473833,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,5,40815,0.21615989134736271,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,6,8368,0.20584921696392772,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,7,7153,0.20268460261968566,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,8,1196,0.19769883545402883,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode III - Revenge of the Sith ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,9,8360,0.1946265501646348,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+5aa48ff0ca094e41b6826fa220cd58f6,10,3578,0.1941090354596359,Because you rated Pirates of the Caribbean: The Curse of the Black Pearl ★5 and Shrek ★5.
+5afa3f11aa024413960042c479f38488,1,527,0.22796513456114273,Because you love The Shawshank Redemption and rated Gladiator ★5.
+5afa3f11aa024413960042c479f38488,2,2959,0.19132738752406322,Because you rated Inception ★5 and love The Dark Knight.
+5afa3f11aa024413960042c479f38488,3,5445,0.18910489955315088,Because you rated Gladiator ★5 and love The Last Samurai.
+5afa3f11aa024413960042c479f38488,4,48516,0.1866728002409858,Because you love The Prestige and The Dark Knight.
+5afa3f11aa024413960042c479f38488,5,110,0.18216234552746313,Because you rated Gladiator ★5 and Jurassic Park ★5.
+5afa3f11aa024413960042c479f38488,6,4995,0.17285378346127242,Because you rated Gladiator ★5 and love The Prestige.
+5afa3f11aa024413960042c479f38488,7,4226,0.16810515530277206,Because you love The Prestige and rated Inception ★5.
+5afa3f11aa024413960042c479f38488,8,50,0.1655957929627059,Because you love The Shawshank Redemption and rated Inception ★5.
+5afa3f11aa024413960042c479f38488,9,49272,0.16223324954036597,Because you love The Dark Knight and rated Gladiator ★5.
+5afa3f11aa024413960042c479f38488,10,109487,0.15372023238649868,Because you rated Inception ★5 and love The Dark Knight.
+61c7541cca204f86beb460f5b1e7da4d,1,33493,0.22284500152918685,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+61c7541cca204f86beb460f5b1e7da4d,2,4896,0.12053689231888219,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+61c7541cca204f86beb460f5b1e7da4d,3,59615,0.11327703972188519,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+61c7541cca204f86beb460f5b1e7da4d,4,4993,0.10713223027547146,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+61c7541cca204f86beb460f5b1e7da4d,5,1210,0.10654529545724618,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+61c7541cca204f86beb460f5b1e7da4d,6,5952,0.10634709654218111,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+61c7541cca204f86beb460f5b1e7da4d,7,53996,0.09641011918248148,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+61c7541cca204f86beb460f5b1e7da4d,8,52722,0.09392708201440327,Because you love Cars and rated Star Wars: Episode II - Attack of the Clones ★5.
+61c7541cca204f86beb460f5b1e7da4d,9,98809,0.09260333495457504,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+61c7541cca204f86beb460f5b1e7da4d,10,8644,0.09141491942304478,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+65bee4ba3f764fa2b2b0965e9d69043b,1,5723,0.04842923972135952,Because you love Urban Cowboy and Valley Girl.
+65bee4ba3f764fa2b2b0965e9d69043b,2,5197,0.0477069321475985,Because you love Urban Cowboy and Valley Girl.
+65bee4ba3f764fa2b2b0965e9d69043b,3,1290,0.044469797655599726,Because you love Better Off Dead... and Valley Girl.
+65bee4ba3f764fa2b2b0965e9d69043b,4,2261,0.044403636375382895,Because you love Better Off Dead....
+65bee4ba3f764fa2b2b0965e9d69043b,5,6636,0.04427281873333575,Because you love Valley Girl and Better Off Dead....
+65bee4ba3f764fa2b2b0965e9d69043b,6,8533,0.04199525592760864,Because you rated Pearl Harbor ★5 and Titanic ★4.
+65bee4ba3f764fa2b2b0965e9d69043b,7,1297,0.04172228085938646,Because you love Better Off Dead....
+65bee4ba3f764fa2b2b0965e9d69043b,8,4018,0.04085472521835382,Because you rated Pearl Harbor ★5.
+65bee4ba3f764fa2b2b0965e9d69043b,9,4482,0.03997444076239606,Because you love Valley Girl and Urban Cowboy.
+65bee4ba3f764fa2b2b0965e9d69043b,10,4299,0.03961280613652625,Because you rated Pearl Harbor ★5.
+756d50c0a31140cd9e36b6bbd47d858a,1,117194,0.07614867860424121,Because you love Dolphin Tale.
+756d50c0a31140cd9e36b6bbd47d858a,2,287609,0.04990630832696651,Because you love Bottoms and rated Joy Ride ★4.
+756d50c0a31140cd9e36b6bbd47d858a,3,350,0.046211710527308075,Because you rated Pretty Woman ★5 and Home Alone ★5.
+756d50c0a31140cd9e36b6bbd47d858a,4,2381,0.045939795704042836,Because you rated Home Alone 2: Lost in New York ★5 and Home Alone 3 ★4.
+756d50c0a31140cd9e36b6bbd47d858a,5,454,0.04532935413315842,Because you rated Pretty Woman ★5 and Home Alone ★5.
+756d50c0a31140cd9e36b6bbd47d858a,6,161,0.0444151338036113,Because you rated Pretty Woman ★5 and Mrs. Doubtfire ★4.
+756d50c0a31140cd9e36b6bbd47d858a,7,278964,0.04411387484782597,Because you love Bottoms.
+756d50c0a31140cd9e36b6bbd47d858a,8,339,0.044110667237667885,Because you rated Pretty Woman ★5 and Home Alone ★5.
+756d50c0a31140cd9e36b6bbd47d858a,9,72407,0.043265641465517125,Because you rated Twilight ★4.
+756d50c0a31140cd9e36b6bbd47d858a,10,78772,0.043015363362781917,Because you rated Twilight ★4.
+7cdc12fd270348c89b62d310970c1fb1,1,344,0.11252164512347283,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Independence Day (a.k.a. ID4) ★4.
+7cdc12fd270348c89b62d310970c1fb1,2,19,0.09251616855784797,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Armageddon ★4.
+7cdc12fd270348c89b62d310970c1fb1,3,1379,0.09243124975914836,Because you love Young Guns.
+7cdc12fd270348c89b62d310970c1fb1,4,367,0.07031951536759709,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Independence Day (a.k.a. ID4) ★4.
+7cdc12fd270348c89b62d310970c1fb1,5,2700,0.06393930803877625,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and The Blair Witch Project ★5.
+7cdc12fd270348c89b62d310970c1fb1,6,1485,0.06336549492755618,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Armageddon ★4.
+7cdc12fd270348c89b62d310970c1fb1,7,165,0.06110011037246029,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Independence Day (a.k.a. ID4) ★4.
+7cdc12fd270348c89b62d310970c1fb1,8,104,0.06062402254840495,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Independence Day (a.k.a. ID4) ★4.
+7cdc12fd270348c89b62d310970c1fb1,9,2001,0.055117976483323755,Because you love Young Guns and rated Armageddon ★4.
+7cdc12fd270348c89b62d310970c1fb1,10,788,0.05475282935494381,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Independence Day (a.k.a. ID4) ★4.
+7e90196545c0480497ef620160b4f7f6,1,5952,0.21928340709888608,Because you love The Lord of the Rings: The Return of the King and The Dark Knight.
+7e90196545c0480497ef620160b4f7f6,2,4993,0.21061968238504253,Because you love The Lord of the Rings: The Return of the King and The Dark Knight.
+7e90196545c0480497ef620160b4f7f6,3,79132,0.19992761968602776,Because you love The Dark Knight and The Prestige.
+7e90196545c0480497ef620160b4f7f6,4,33794,0.19451990931757163,Because you love The Dark Knight and The Lord of the Rings: The Return of the King.
+7e90196545c0480497ef620160b4f7f6,5,44191,0.16385443554532197,Because you love The Prestige and The Dark Knight.
+7e90196545c0480497ef620160b4f7f6,6,3578,0.15690279949201807,Because you love The Lord of the Rings: The Return of the King and The Last Samurai.
+7e90196545c0480497ef620160b4f7f6,7,91529,0.15127891491592554,Because you love The Dark Knight and The Prestige.
+7e90196545c0480497ef620160b4f7f6,8,2571,0.14145212318554726,Because you love The Lord of the Rings: The Return of the King and The Dark Knight.
+7e90196545c0480497ef620160b4f7f6,9,4995,0.12866741159995707,Because you love The Prestige and The Last Samurai.
+7e90196545c0480497ef620160b4f7f6,10,48516,0.123378681088457,Because you love The Prestige and The Dark Knight.
+8133afcf3c3e4a0c91330cd610f3e8e3,1,40815,0.47624163096094874,Because you rated Harry Potter and the Prisoner of Azkaban ★5 and Harry Potter and the Chamber of Secrets ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,2,8636,0.40398440766825516,Because you rated Spider-Man ★5 and X-Men ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,3,1210,0.41767067676175795,Because you love Star Wars: Episode IV - A New Hope and rated Star Wars: Episode I - The Phantom Menace ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,4,4886,0.40218891442560323,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,5,54001,0.3663136105308636,Because you rated Harry Potter and the Prisoner of Azkaban ★5 and Harry Potter and the Chamber of Secrets ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,6,1196,0.3988152576764363,Because you love Star Wars: Episode IV - A New Hope and rated The Lord of the Rings: The Fellowship of the Ring ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,7,6377,0.38561188493448056,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,8,6365,0.37324714457237773,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,9,8961,0.38097933157775005,Because you rated Shrek ★5 and Spider-Man ★5.
+8133afcf3c3e4a0c91330cd610f3e8e3,10,4963,0.3664887409745685,Because you love The Bourne Identity and rated Pirates of the Caribbean: The Curse of the Black Pearl ★5.
+8720a03c147b40298ffca842c9362ff5,1,1221,0.15969645646829073,Because you love The Godfather and Reservoir Dogs.
+8720a03c147b40298ffca842c9362ff5,2,8360,0.1376866634623873,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,3,4896,0.1255574168382319,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,4,5952,0.12072301661524132,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,5,5816,0.11770172145855787,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,6,4886,0.11554118054302523,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,7,7153,0.1124587154657145,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,8,6377,0.11137157945374741,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+8720a03c147b40298ffca842c9362ff5,9,1213,0.10827961630706745,Because you love The Godfather and Reservoir Dogs.
+8720a03c147b40298ffca842c9362ff5,10,4993,0.10693480649262033,Because you rated Shrek ★5 and Pirates of the Caribbean: The Curse of the Black Pearl ★4.
+87580b489f784e81bcd0a4a46994f6e0,1,32596,0.08664143877608042,Because you love National Treasure and National Treasure: Book of Secrets.
+87580b489f784e81bcd0a4a46994f6e0,2,68793,0.10009146408372224,Because you love National Treasure: Book of Secrets and National Treasure.
+87580b489f784e81bcd0a4a46994f6e0,3,79139,0.09194279220467368,Because you love National Treasure: Book of Secrets and National Treasure.
+87580b489f784e81bcd0a4a46994f6e0,4,39435,0.0844774964911316,Because you love National Treasure: Book of Secrets and National Treasure.
+87580b489f784e81bcd0a4a46994f6e0,5,45447,0.1576752420916731,Because you love National Treasure and National Treasure: Book of Secrets.
+87580b489f784e81bcd0a4a46994f6e0,6,51412,0.08465181389702683,Because you love National Treasure: Book of Secrets and National Treasure.
+87580b489f784e81bcd0a4a46994f6e0,7,51077,0.10011740269534355,Because you love National Treasure: Book of Secrets and National Treasure.
+87580b489f784e81bcd0a4a46994f6e0,8,6378,0.16465693799981249,Because you love National Treasure and rated The Matrix Reloaded ★5.
+87580b489f784e81bcd0a4a46994f6e0,9,8361,0.15259221525966513,Because you love National Treasure and National Treasure: Book of Secrets.
+87580b489f784e81bcd0a4a46994f6e0,10,46972,0.1288767273115503,Because you love National Treasure and National Treasure: Book of Secrets.
+8d203d0964284a75b33b918eb04308f4,1,780,0.10043132045104997,Because you love Jurassic Park and added Armageddon to your list.
+8d203d0964284a75b33b918eb04308f4,2,1580,0.08652519549046662,Because you love Jurassic Park and rated Shrek ★4.
+8d203d0964284a75b33b918eb04308f4,3,1544,0.08237809104934724,Because you love Jurassic Park and added Armageddon to your list.
+8d203d0964284a75b33b918eb04308f4,4,377,0.08228989278729067,Because you love Jurassic Park and rated Titanic ★4.
+8d203d0964284a75b33b918eb04308f4,5,356,0.07952380954170193,Because you love Jurassic Park and rated Titanic ★4.
+8d203d0964284a75b33b918eb04308f4,6,3578,0.07802800288794966,Because you love Jurassic Park and rated Shrek ★4.
+8d203d0964284a75b33b918eb04308f4,7,364,0.07649233505322066,Because you love Jurassic Park and rated Shrek ★4.
+8d203d0964284a75b33b918eb04308f4,8,242894,0.0748577606340564,Because you love Godzilla: King of the Monsters.
+8d203d0964284a75b33b918eb04308f4,9,736,0.07321729268513909,Because you love Jurassic Park and rated Titanic ★4.
+8d203d0964284a75b33b918eb04308f4,10,1210,0.0702679896995289,Because you love Jurassic Park and added Star Wars: Episode I - The Phantom Menace to your list.
+8fb93e1501cf4efcbf9deae9a7735d06,1,33493,0.17266793838614772,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,2,597,0.15342320426974188,Because you love Dirty Dancing and rated Titanic ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,3,1101,0.13739716316133058,Because you love Dirty Dancing and rated Titanic ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,4,539,0.12745623741476345,Because you love When Harry Met Sally... and rated Titanic ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,5,1380,0.1253246848977691,Because you love Dirty Dancing and rated Titanic ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,6,1210,0.12451622640422061,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,7,2424,0.11292763629386335,Because you love When Harry Met Sally... and Dirty Dancing.
+8fb93e1501cf4efcbf9deae9a7735d06,8,3578,0.10806130527160264,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Titanic ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,9,587,0.100691303468835,Because you love Dirty Dancing and rated Titanic ★5.
+8fb93e1501cf4efcbf9deae9a7735d06,10,260,0.09755567551369523,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+90102a23a7224f9dbd9b4b21e515eb21,1,527,0.22796513456114273,Because you love The Shawshank Redemption and rated Gladiator ★5.
+90102a23a7224f9dbd9b4b21e515eb21,2,2959,0.19132738752406322,Because you rated Inception ★5 and love The Dark Knight.
+90102a23a7224f9dbd9b4b21e515eb21,3,5445,0.18910489955315088,Because you rated Gladiator ★5 and love The Last Samurai.
+90102a23a7224f9dbd9b4b21e515eb21,4,48516,0.1866728002409858,Because you love The Prestige and The Dark Knight.
+90102a23a7224f9dbd9b4b21e515eb21,5,110,0.18216234552746313,Because you rated Gladiator ★5 and Jurassic Park ★5.
+90102a23a7224f9dbd9b4b21e515eb21,6,4995,0.17285378346127242,Because you rated Gladiator ★5 and love The Prestige.
+90102a23a7224f9dbd9b4b21e515eb21,7,4226,0.16810515530277206,Because you love The Prestige and rated Inception ★5.
+90102a23a7224f9dbd9b4b21e515eb21,8,50,0.1655957929627059,Because you love The Shawshank Redemption and rated Inception ★5.
+90102a23a7224f9dbd9b4b21e515eb21,9,49272,0.16223324954036597,Because you love The Dark Knight and rated Gladiator ★5.
+90102a23a7224f9dbd9b4b21e515eb21,10,109487,0.15372023238649868,Because you rated Inception ★5 and love The Dark Knight.
+9a7aa23e05a54bb387f725a3f39abf75,1,33493,0.1446853964282994,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Star Wars: Episode I - The Phantom Menace ★4.
+9a7aa23e05a54bb387f725a3f39abf75,2,6539,0.11132319682427039,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+9a7aa23e05a54bb387f725a3f39abf75,3,8360,0.11056020522709192,Because you rated Shrek ★5.
+9a7aa23e05a54bb387f725a3f39abf75,4,3793,0.10970039634808489,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+9a7aa23e05a54bb387f725a3f39abf75,5,5349,0.10968023337899602,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+9a7aa23e05a54bb387f725a3f39abf75,6,4896,0.10630449733520393,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+9a7aa23e05a54bb387f725a3f39abf75,7,1210,0.0996867620064378,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and love Top Gun.
+9a7aa23e05a54bb387f725a3f39abf75,8,3623,0.09917172822434618,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and love Top Gun.
+9a7aa23e05a54bb387f725a3f39abf75,9,5816,0.09886516752037583,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Shrek ★5.
+9a7aa23e05a54bb387f725a3f39abf75,10,5952,0.09552810100910494,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+9c5b7025726d4d75bfcb5fb1e8853e8a,1,104245,0.10846370147537224,Because you love Cars 2 and Cars 3.
+9c5b7025726d4d75bfcb5fb1e8853e8a,2,103755,0.0982707334796197,Because you love Cars 2 and Cars 3.
+9c5b7025726d4d75bfcb5fb1e8853e8a,3,172547,0.1023454624140898,Because you love Cars 3 and Cars 2.
+9c5b7025726d4d75bfcb5fb1e8853e8a,4,120474,0.0642312952102305,Because you love Cars 2 and Cars 3.
+9c5b7025726d4d75bfcb5fb1e8853e8a,5,110655,0.08327270071126172,Because you love Cars 2 and Cars 3.
+9c5b7025726d4d75bfcb5fb1e8853e8a,6,112460,0.04084586861074695,Because you love Cars 2.
+9c5b7025726d4d75bfcb5fb1e8853e8a,7,95105,0.09812061722295569,Because you love Cars 2 and Cars 3.
+9c5b7025726d4d75bfcb5fb1e8853e8a,8,160569,0.06543202436809878,Because you love Cars 2 and Cars 3.
+9c5b7025726d4d75bfcb5fb1e8853e8a,9,168418,0.08110499216072466,Because you love Cars 3 and Cars 2.
+9c5b7025726d4d75bfcb5fb1e8853e8a,10,86298,0.10327162754031506,Because you love Cars 2 and Cars.
+9cb73688fc5a4ed0b9528fae4e6b633f,1,103335,0.2085630237246175,Because you rated Despicable Me 3 ★5 and Rio ★5.
+9cb73688fc5a4ed0b9528fae4e6b633f,2,88356,0.19764236424068468,Because you rated Turbo ★5 and Rio ★5.
+9cb73688fc5a4ed0b9528fae4e6b633f,3,136016,0.18748469412170668,Because you rated Turbo ★5 and Rio ★5.
+9cb73688fc5a4ed0b9528fae4e6b633f,4,135887,0.18739964746859675,Because you rated Despicable Me 3 ★5 and love Cars 2.
+9cb73688fc5a4ed0b9528fae4e6b633f,5,69644,0.18465457955961714,Because you rated Rio ★5 and love Cars 2.
+9cb73688fc5a4ed0b9528fae4e6b633f,6,142997,0.18201555112830323,Because you rated Despicable Me 3 ★5 and Turbo ★5.
+9cb73688fc5a4ed0b9528fae4e6b633f,7,117851,0.17903604592919303,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+9cb73688fc5a4ed0b9528fae4e6b633f,8,165141,0.17293632730870814,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+9cb73688fc5a4ed0b9528fae4e6b633f,9,167036,0.1704021283932931,Because you rated Despicable Me 3 ★5 and love Cars 3.
+9cb73688fc5a4ed0b9528fae4e6b633f,10,105468,0.17035854497532696,Because you rated Turbo ★5 and Rio ★5.
+9d52bc75127140d28965701bb0e72592,1,46972,0.1288767273115503,Because you love National Treasure and National Treasure: Book of Secrets.
+9d52bc75127140d28965701bb0e72592,2,91542,0.13651104469590303,Because you love Iron Man and rated Pirates of the Caribbean: Dead Man's Chest ★5.
+9d52bc75127140d28965701bb0e72592,3,53996,0.1375124994374281,Because you love Iron Man and rated Pirates of the Caribbean: Dead Man's Chest ★5.
+9d52bc75127140d28965701bb0e72592,4,59615,0.13158801813368512,Because you rated Pirates of the Caribbean: Dead Man's Chest ★5 and love National Treasure: Book of Secrets.
+9d52bc75127140d28965701bb0e72592,5,53322,0.1289472129493119,Because you rated The Italian Job ★5 and love National Treasure.
+9d52bc75127140d28965701bb0e72592,6,60074,0.1299334328910576,Because you love National Treasure: Book of Secrets and Iron Man.
+9d52bc75127140d28965701bb0e72592,7,33679,0.13871914462754353,Because you love National Treasure and rated The Italian Job ★5.
+9d52bc75127140d28965701bb0e72592,8,68793,0.10009146408372224,Because you love National Treasure: Book of Secrets and National Treasure.
+9d52bc75127140d28965701bb0e72592,9,79139,0.09194279220467368,Because you love National Treasure: Book of Secrets and National Treasure.
+9d52bc75127140d28965701bb0e72592,10,51077,0.10011740269534355,Because you love National Treasure: Book of Secrets and National Treasure.
+abd4d939daec4d5b939ac48e85cc1ecc,1,587,0.09688769938883379,Because you love Pretty Woman and rated Titanic ★4.
+abd4d939daec4d5b939ac48e85cc1ecc,2,4025,0.09570434418028397,Because you love How to Lose a Guy in 10 Days and Pretty Woman.
+abd4d939daec4d5b939ac48e85cc1ecc,3,2671,0.09113913760950618,Because you love Pretty Woman and How to Lose a Guy in 10 Days.
+abd4d939daec4d5b939ac48e85cc1ecc,4,1569,0.08922920169982448,Because you love Pretty Woman and How to Lose a Guy in 10 Days.
+abd4d939daec4d5b939ac48e85cc1ecc,5,2424,0.08865953126394774,Because you love Pretty Woman and How to Lose a Guy in 10 Days.
+abd4d939daec4d5b939ac48e85cc1ecc,6,539,0.08456211821325328,Because you love Pretty Woman and rated Titanic ★4.
+abd4d939daec4d5b939ac48e85cc1ecc,7,2724,0.08208736214673955,Because you love Pretty Woman and How to Lose a Guy in 10 Days.
+abd4d939daec4d5b939ac48e85cc1ecc,8,500,0.0771524496950043,Because you love Pretty Woman and rated Titanic ★4.
+abd4d939daec4d5b939ac48e85cc1ecc,9,5620,0.07651631773560977,Because you love How to Lose a Guy in 10 Days.
+abd4d939daec4d5b939ac48e85cc1ecc,10,4069,0.07349403448226974,Because you love How to Lose a Guy in 10 Days.
+b0a6949cc2ad4d5a80ede15bb05e8da9,1,104245,0.10846370147537224,Because you love Cars 2 and Cars 3.
+b0a6949cc2ad4d5a80ede15bb05e8da9,2,44022,0.10795800904094387,Because you love Cars and Cars 2.
+b0a6949cc2ad4d5a80ede15bb05e8da9,3,63859,0.10416127417990004,Because you love Cars and Cars 2.
+b0a6949cc2ad4d5a80ede15bb05e8da9,4,69644,0.10327653184772655,Because you love Cars 2 and Cars.
+b0a6949cc2ad4d5a80ede15bb05e8da9,5,86298,0.10327162754031506,Because you love Cars 2 and Cars.
+b0a6949cc2ad4d5a80ede15bb05e8da9,6,172547,0.1023454624140898,Because you love Cars 3 and Cars 2.
+b0a6949cc2ad4d5a80ede15bb05e8da9,7,103141,0.10207716876082153,Because you love Cars 2 and Cars.
+b0a6949cc2ad4d5a80ede15bb05e8da9,8,62999,0.10144377499967244,Because you love Cars 2 and Cars.
+b0a6949cc2ad4d5a80ede15bb05e8da9,9,53121,0.1009274100546762,Because you love Cars and Cars 2.
+b0a6949cc2ad4d5a80ede15bb05e8da9,10,78637,0.10032159896394885,Because you love Cars 2 and Cars.
+b7f476a6e3604f84a51d332aa29c51ca,1,1101,0.261701203272449,Because you love Independence Day (a.k.a. ID4) and rated Mission: Impossible ★5.
+b7f476a6e3604f84a51d332aa29c51ca,2,733,0.257928531171268,Because you love Independence Day (a.k.a. ID4) and rated Mission: Impossible ★5.
+b7f476a6e3604f84a51d332aa29c51ca,3,380,0.25575142037052556,Because you love Independence Day (a.k.a. ID4) and rated Jurassic Park ★5.
+b7f476a6e3604f84a51d332aa29c51ca,4,1,0.25372935805666846,Because you rated Shrek ★5 and Jurassic Park ★5.
+b7f476a6e3604f84a51d332aa29c51ca,5,1210,0.25227099273122244,Because you rated Star Wars: Episode I - The Phantom Menace ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+b7f476a6e3604f84a51d332aa29c51ca,6,364,0.25039900377170804,Because you rated Mrs. Doubtfire ★5 and Jurassic Park ★5.
+b7f476a6e3604f84a51d332aa29c51ca,7,356,0.24938356251579682,Because you rated Jurassic Park ★5 and Mrs. Doubtfire ★5.
+b7f476a6e3604f84a51d332aa29c51ca,8,1544,0.24543672423780394,Because you rated Jurassic Park ★5 and love Independence Day (a.k.a. ID4).
+b7f476a6e3604f84a51d332aa29c51ca,9,457,0.24177912962929105,Because you rated Jurassic Park ★5 and Mrs. Doubtfire ★5.
+b7f476a6e3604f84a51d332aa29c51ca,10,165,0.23990843657716213,Because you love Die Hard and rated Mission: Impossible ★5.
+c081f31e708c4addaff1b07bb29f7f97,1,88356,0.19764236424068468,Because you rated Turbo ★5 and Rio ★5.
+c081f31e708c4addaff1b07bb29f7f97,2,110130,0.1334674428828008,Because you rated Turbo ★5 and Planes ★5.
+c081f31e708c4addaff1b07bb29f7f97,3,104076,0.13249198722820157,Because you rated Turbo ★5 and Planes ★5.
+c081f31e708c4addaff1b07bb29f7f97,4,106240,0.12304572315248664,Because you rated Planes ★5 and Turbo ★5.
+c081f31e708c4addaff1b07bb29f7f97,5,86059,0.14231819153184344,Because you rated Turbo ★5 and Planes ★5.
+c081f31e708c4addaff1b07bb29f7f97,6,165141,0.17293632730870814,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+c081f31e708c4addaff1b07bb29f7f97,7,158428,0.08173748111323971,Because you rated Planes ★5 and Turbo ★5.
+c081f31e708c4addaff1b07bb29f7f97,8,136016,0.18748469412170668,Because you rated Turbo ★5 and Rio ★5.
+c081f31e708c4addaff1b07bb29f7f97,9,117851,0.17903604592919303,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+c081f31e708c4addaff1b07bb29f7f97,10,170627,0.08194486777882998,Because you rated Turbo ★5 and Despicable Me 3 ★5.
+c11dbefdddee440098d78c9a34deacf6,1,92938,0.03654208955414295,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,2,286897,0.0369649112078062,Because you love Spider-Man: Into the Spider-Verse.
+c11dbefdddee440098d78c9a34deacf6,3,90717,0.04174522108674071,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,4,112897,0.04145886219436223,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,5,113348,0.03806017523452016,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,6,94018,0.04735986876817164,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,7,105653,0.042224419940979994,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,8,108945,0.0527243914104223,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,9,85056,0.048522790663808504,Because you love Real Steel.
+c11dbefdddee440098d78c9a34deacf6,10,61160,0.047275085126551944,Because you rated Star Wars: Episode III - Revenge of the Sith ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,1,33493,0.14651016042189502,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,2,53996,0.09721790787558454,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,3,91529,0.0952427727347019,Because you love The Prestige and rated Avatar ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,4,98809,0.09337922785414045,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,5,79132,0.0927730011619594,Because you love The Prestige and rated Avatar ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,6,109487,0.09059859983951772,Because you love The Prestige and rated Avatar ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,7,40815,0.08981387434923048,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,8,106489,0.08939724810293335,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,9,6539,0.0888108245677672,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+c6bbe3ca09664b82967804b2e7fe6ce2,10,74458,0.08310289219351526,Because you love The Prestige and rated Avatar ★5.
+c91c7c326f924edfaed88bc412b3d7bd,1,8360,0.11159347817313951,Because you rated Shrek ★5.
+c91c7c326f924edfaed88bc412b3d7bd,2,5618,0.09510297562835511,Because you love Howl's Moving Castle (Hauru no ugoku shiro) and rated Shrek ★5.
+c91c7c326f924edfaed88bc412b3d7bd,3,2571,0.0949701945981465,Because you love Fight Club and rated Shrek ★5.
+c91c7c326f924edfaed88bc412b3d7bd,4,4886,0.09429414160797392,Because you rated Shrek ★5.
+c91c7c326f924edfaed88bc412b3d7bd,5,6377,0.08859853624144552,Because you rated Shrek ★5.
+c91c7c326f924edfaed88bc412b3d7bd,6,4973,0.08268232743293234,Because you rated Shrek ★5 and love Fight Club.
+c91c7c326f924edfaed88bc412b3d7bd,7,6539,0.08112453919149101,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★4.
+c91c7c326f924edfaed88bc412b3d7bd,8,3793,0.07663894506690468,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★4.
+c91c7c326f924edfaed88bc412b3d7bd,9,5349,0.07364703267681444,Because you rated Shrek ★5 and Star Wars: Episode II - Attack of the Clones ★4.
+c91c7c326f924edfaed88bc412b3d7bd,10,58559,0.07361031049698398,Because you love Fight Club and rated Shrek ★5.
+cb1dfc41668044f495df3165f5de9189,1,6378,0.16465693799981249,Because you love National Treasure and rated The Matrix Reloaded ★5.
+cb1dfc41668044f495df3165f5de9189,2,45447,0.1576752420916731,Because you love National Treasure and National Treasure: Book of Secrets.
+cb1dfc41668044f495df3165f5de9189,3,53125,0.15521315639417457,Because you love National Treasure and National Treasure: Book of Secrets.
+cb1dfc41668044f495df3165f5de9189,4,8361,0.15259221525966513,Because you love National Treasure and National Treasure: Book of Secrets.
+cb1dfc41668044f495df3165f5de9189,5,8644,0.14872032730325785,Because you rated The Matrix Reloaded ★5 and love National Treasure.
+cb1dfc41668044f495df3165f5de9189,6,45722,0.14263347784355945,Because you love National Treasure and Iron Man.
+cb1dfc41668044f495df3165f5de9189,7,33679,0.13871914462754353,Because you love National Treasure and Iron Man.
+cb1dfc41668044f495df3165f5de9189,8,8984,0.1375218376602927,Because you love National Treasure and National Treasure: Book of Secrets.
+cb1dfc41668044f495df3165f5de9189,9,53996,0.1375124994374281,Because you love Iron Man and National Treasure.
+cb1dfc41668044f495df3165f5de9189,10,3793,0.13670672046346322,Because you love Iron Man and rated The Matrix Reloaded ★5.
+cdfd90c0cbd941b9a284d98c49dfdcaf,1,6539,0.2400583270039736,Because you rated The Lord of the Rings: The Two Towers ★5 and love The Lord of the Rings: The Return of the King.
+cdfd90c0cbd941b9a284d98c49dfdcaf,2,44191,0.23579661213177605,Because you love The Prestige and rated Inception ★5.
+cdfd90c0cbd941b9a284d98c49dfdcaf,3,5349,0.21544317168382562,Because you rated The Lord of the Rings: The Two Towers ★5 and The Lord of the Rings: The Fellowship of the Ring ★5.
+cdfd90c0cbd941b9a284d98c49dfdcaf,4,260,0.20295030437802855,Because you rated The Lord of the Rings: The Fellowship of the Ring ★5 and love The Lord of the Rings: The Return of the King.
+cdfd90c0cbd941b9a284d98c49dfdcaf,5,1198,0.20264480745295277,Because you rated The Lord of the Rings: The Fellowship of the Ring ★5 and The Lord of the Rings: The Two Towers ★5.
+cdfd90c0cbd941b9a284d98c49dfdcaf,6,5445,0.19784646209091905,Because you rated Gladiator ★5 and love The Last Samurai.
+cdfd90c0cbd941b9a284d98c49dfdcaf,7,527,0.19688599255030756,Because you love The Shawshank Redemption and rated Gladiator ★5.
+cdfd90c0cbd941b9a284d98c49dfdcaf,8,2959,0.19636079822624963,Because you rated Inception ★5 and love The Dark Knight.
+cdfd90c0cbd941b9a284d98c49dfdcaf,9,4995,0.19395758412591352,Because you rated Gladiator ★5 and love The Prestige.
+cdfd90c0cbd941b9a284d98c49dfdcaf,10,48516,0.1891523789485436,Because you love The Prestige and The Dark Knight.
+d75232f41d294e44bd40e5b61f714505,1,33493,0.14651016042189502,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+d75232f41d294e44bd40e5b61f714505,2,53996,0.09721790787558454,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+d75232f41d294e44bd40e5b61f714505,3,91529,0.0952427727347019,Because you love The Prestige and rated Avatar ★5.
+d75232f41d294e44bd40e5b61f714505,4,98809,0.09337922785414045,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+d75232f41d294e44bd40e5b61f714505,5,79132,0.0927730011619594,Because you love The Prestige and rated Avatar ★5.
+d75232f41d294e44bd40e5b61f714505,6,109487,0.09059859983951772,Because you love The Prestige and rated Avatar ★5.
+d75232f41d294e44bd40e5b61f714505,7,40815,0.08981387434923048,Because you rated Star Wars: Episode II - Attack of the Clones ★5 and Avatar ★5.
+d75232f41d294e44bd40e5b61f714505,8,106489,0.08939724810293335,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+d75232f41d294e44bd40e5b61f714505,9,6539,0.0888108245677672,Because you rated Avatar ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+d75232f41d294e44bd40e5b61f714505,10,74458,0.08310289219351526,Because you love The Prestige and rated Avatar ★5.
+db4886f0c8ec43e48ac34d642024db3b,1,367,0.2064884288376258,Because you rated Ace Ventura: Pet Detective ★5 and Dumb & Dumber (Dumb and Dumber) ★5.
+db4886f0c8ec43e48ac34d642024db3b,2,1485,0.17668052074215132,Because you rated Ace Ventura: Pet Detective ★5 and Dumb & Dumber (Dumb and Dumber) ★5.
+db4886f0c8ec43e48ac34d642024db3b,3,1923,0.17569811297202353,Because you rated American Pie ★5 and Austin Powers: The Spy Who Shagged Me ★5.
+db4886f0c8ec43e48ac34d642024db3b,4,104,0.16939166000942152,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Ace Ventura: Pet Detective ★5.
+db4886f0c8ec43e48ac34d642024db3b,5,788,0.15618497748277532,Because you rated Ace Ventura: Pet Detective ★5 and American Pie ★5.
+db4886f0c8ec43e48ac34d642024db3b,6,3253,0.1469374506044672,Because you rated Austin Powers: The Spy Who Shagged Me ★5 and Dumb & Dumber (Dumb and Dumber) ★5.
+db4886f0c8ec43e48ac34d642024db3b,7,216,0.13251733544866043,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Ace Ventura: Pet Detective ★5.
+db4886f0c8ec43e48ac34d642024db3b,8,333,0.12007035658022878,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Ace Ventura: Pet Detective ★5.
+db4886f0c8ec43e48ac34d642024db3b,9,5481,0.11492363929293054,Because you rated Austin Powers: The Spy Who Shagged Me ★5 and Charlie's Angels ★5.
+db4886f0c8ec43e48ac34d642024db3b,10,784,0.11389273526702169,Because you rated Dumb & Dumber (Dumb and Dumber) ★5 and Ace Ventura: Pet Detective ★5.
+de81f17737a64d0689a0bbd91c8d2713,1,54001,0.44578616160310164,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+de81f17737a64d0689a0bbd91c8d2713,2,69844,0.42860879946925623,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+de81f17737a64d0689a0bbd91c8d2713,3,88125,0.3997577703879168,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+de81f17737a64d0689a0bbd91c8d2713,4,81834,0.3928802159066663,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+de81f17737a64d0689a0bbd91c8d2713,5,53125,0.32461718057178346,Because you rated Pirates of the Caribbean: Dead Man's Chest ★5 and Harry Potter and the Goblet of Fire ★5.
+de81f17737a64d0689a0bbd91c8d2713,6,6539,0.30914235190867284,Because you rated Pirates of the Caribbean: Dead Man's Chest ★5 and Harry Potter and the Chamber of Secrets ★5.
+de81f17737a64d0689a0bbd91c8d2713,7,98809,0.3043118024822151,Because you rated Harry Potter and the Goblet of Fire ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.
+de81f17737a64d0689a0bbd91c8d2713,8,106489,0.28818030946386947,Because you rated Harry Potter and the Goblet of Fire ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.
+de81f17737a64d0689a0bbd91c8d2713,9,41566,0.28756444674290155,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Chamber of Secrets ★5.
+de81f17737a64d0689a0bbd91c8d2713,10,5952,0.2607184592976507,Because you rated Harry Potter and the Prisoner of Azkaban ★5 and Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) ★5.
+dfaad025a36842cbb03058f5b67884d6,1,6378,0.16465693799981249,Because you love National Treasure and rated The Matrix Reloaded ★5.
+dfaad025a36842cbb03058f5b67884d6,2,45447,0.1576752420916731,Because you love National Treasure and National Treasure: Book of Secrets.
+dfaad025a36842cbb03058f5b67884d6,3,53125,0.15521315639417457,Because you love National Treasure and National Treasure: Book of Secrets.
+dfaad025a36842cbb03058f5b67884d6,4,8361,0.15259221525966513,Because you love National Treasure and National Treasure: Book of Secrets.
+dfaad025a36842cbb03058f5b67884d6,5,8644,0.14872032730325785,Because you rated The Matrix Reloaded ★5 and love National Treasure.
+dfaad025a36842cbb03058f5b67884d6,6,45722,0.14263347784355945,Because you love National Treasure and Iron Man.
+dfaad025a36842cbb03058f5b67884d6,7,33679,0.13871914462754353,Because you love National Treasure and Iron Man.
+dfaad025a36842cbb03058f5b67884d6,8,8984,0.1375218376602927,Because you love National Treasure and National Treasure: Book of Secrets.
+dfaad025a36842cbb03058f5b67884d6,9,53996,0.1375124994374281,Because you love Iron Man and National Treasure.
+dfaad025a36842cbb03058f5b67884d6,10,3793,0.13670672046346322,Because you love Iron Man and rated The Matrix Reloaded ★5.
+f3ec13c6c050463db668aba2352f2f18,1,6539,0.12028990031502572,Because you rated Shrek ★5 and love Casino Royale.
+f3ec13c6c050463db668aba2352f2f18,2,58559,0.11645645481026022,Because you love Casino Royale and Fight Club.
+f3ec13c6c050463db668aba2352f2f18,3,5349,0.11353415795932933,Because you rated Shrek ★5 and love Casino Royale.
+f3ec13c6c050463db668aba2352f2f18,4,79132,0.113272817174908,Because you love Fight Club and Gone Girl.
+f3ec13c6c050463db668aba2352f2f18,5,8360,0.11264624683515026,Because you rated Shrek ★5.
+f3ec13c6c050463db668aba2352f2f18,6,8961,0.10931102925415855,Because you rated Shrek ★5 and love Casino Royale.
+f3ec13c6c050463db668aba2352f2f18,7,48516,0.10688227652096509,Because you love Casino Royale and Fight Club.
+f3ec13c6c050463db668aba2352f2f18,8,48780,0.10198251638400435,Because you love Casino Royale and Gone Girl.
+f3ec13c6c050463db668aba2352f2f18,9,106782,0.10198235017859536,Because you love Gone Girl and Fight Club.
+f3ec13c6c050463db668aba2352f2f18,10,6874,0.10079932906868228,Because you love Fight Club and Casino Royale.
+ff3c0457565e4970934adc81182dfd94,1,170957,0.037075674262415086,Because you love Cars.
+ff3c0457565e4970934adc81182dfd94,2,54001,0.44578616160310164,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+ff3c0457565e4970934adc81182dfd94,3,69844,0.42860879946925623,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+ff3c0457565e4970934adc81182dfd94,4,61160,0.11683875088242265,Because you rated Star Wars: Episode III - Revenge of the Sith ★5 and Star Wars: Episode II - Attack of the Clones ★5.
+ff3c0457565e4970934adc81182dfd94,5,88125,0.3997577703879168,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+ff3c0457565e4970934adc81182dfd94,6,81834,0.3928802159066663,Because you rated Harry Potter and the Goblet of Fire ★5 and Harry Potter and the Prisoner of Azkaban ★5.
+ff3c0457565e4970934adc81182dfd94,7,53125,0.32461718057178346,Because you rated Pirates of the Caribbean: Dead Man's Chest ★5 and Harry Potter and the Goblet of Fire ★5.
+ff3c0457565e4970934adc81182dfd94,8,106489,0.28818030946386947,Because you rated Harry Potter and the Goblet of Fire ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.
+ff3c0457565e4970934adc81182dfd94,9,87876,0.06004018543637418,Because you love Cars.
+ff3c0457565e4970934adc81182dfd94,10,98809,0.3043118024822151,Because you rated Harry Potter and the Goblet of Fire ★5 and Pirates of the Caribbean: Dead Man's Chest ★5.

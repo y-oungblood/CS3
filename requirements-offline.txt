@@ -1,0 +1,8 @@
+# Offline pipeline: artifacts, simulation, analysis.
+-r requirements.txt
+lenskit==2026.4.0
+scipy
+requests
+matplotlib
+jupyter
+pytest
